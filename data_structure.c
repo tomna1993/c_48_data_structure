@@ -4,7 +4,7 @@
 
 #define ARRAY_LENGTH 3
 
-typedef struct
+typedef struct person
 {
     string name;
     string phone;
